@@ -23,6 +23,7 @@
 @media (max-width:600px) { 
     #head-image2{ 
         display: none;
+        text-decoration: none;
     }
 }
 
