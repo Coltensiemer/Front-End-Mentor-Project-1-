@@ -20,7 +20,7 @@
 }
 
 /* Less than 100px */
-@media (max-width:600px) { 
+@media (max-width:750px) { 
     #head-image2{ 
         display: none;
         text-decoration: none;
@@ -29,9 +29,9 @@
 
 
 /* 1000px and above  */
-@media (min-width: 600px) { 
+@media (min-width: 750px) { 
   body { 
-    margin:auto;
+    margin:100px auto;
     padding: 100px;
     background-color: var(--Primary-Cream);
   }
